@@ -41,23 +41,23 @@ NextPoint/
 #### 1.1 Setup du Projet
 - [x] Création de la structure des dossiers
 - [x] Configuration de Git
-- [ ] Setup de Pester
-- [ ] Setup de PSScriptAnalyzer
-- [ ] Configuration de VSCode
+- [x] Setup de Pester
+- [x] Setup de PSScriptAnalyzer
+- [x] Configuration de VSCode
 
 #### 1.2 Core Module (NextPoint.Core)
 - [x] Tests - Initialize-NextPointGUI
-- [ ] Tests - Connect-NextPointService
-- [ ] Tests - Configuration Management
-- [ ] Implémentation Interface de Base
-- [ ] Tests d'Intégration Core
+- [x] Tests - Connect-NextPointService
+- [x] Tests - Configuration Management
+- [x] Implémentation Interface de Base
+- [x] Tests d'Intégration Core
 
 #### 1.3 Common Module (NextPoint.Common)
-- [ ] Tests - Logging System
-- [ ] Tests - Error Handling
-- [ ] Tests - Authentication Helpers
-- [ ] Implémentation Fonctions Communes
-- [ ] Tests d'Intégration Common
+- [x] Tests - Logging System
+- [x] Tests - Error Handling
+- [x] Tests - Authentication Helpers
+- [x] Implémentation Fonctions Communes
+- [x] Tests d'Intégration Common
 
 ### Phase 2 - MECM Integration 🔴
 
