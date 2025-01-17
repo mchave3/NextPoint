@@ -398,3 +398,28 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# PowerShell
+*.psm1.*.ps1
+*.ps1.*.ps1
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Build output
+build/
+out/
+
+# Test results
+TestResults/
+
+# Local configuration
+*.user
+*.local.json
+
+# Modules
+modules/

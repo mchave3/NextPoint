@@ -36,17 +36,17 @@ NextPoint/
 
 ## Étapes de Développement
 
-### Phase 1 - Foundation 🔴
+### Phase 1 - Foundation 🟡
 
 #### 1.1 Setup du Projet
-- [ ] Création de la structure des dossiers
-- [ ] Configuration de Git
+- [x] Création de la structure des dossiers
+- [x] Configuration de Git
 - [ ] Setup de Pester
 - [ ] Setup de PSScriptAnalyzer
 - [ ] Configuration de VSCode
 
 #### 1.2 Core Module (NextPoint.Core)
-- [ ] Tests - Initialize-NextPointGUI
+- [x] Tests - Initialize-NextPointGUI
 - [ ] Tests - Connect-NextPointService
 - [ ] Tests - Configuration Management
 - [ ] Implémentation Interface de Base
