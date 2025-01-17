@@ -4,7 +4,7 @@ function Initialize-NextPointGUI {
 
     try {
         Add-Type -AssemblyName PresentationFramework
-        $xamlFile = Join-Path $PSScriptRoot "..\XAML\MainWindow.xaml"
+        $xamlFile = Join-Path $PSScriptRoot "..\..\NextPoint.UI\XAML\MainWindow.xaml"
         $inputXML = Get-Content -Path $xamlFile -Raw
         $inputXML = $inputXML -replace 'mc:Ignorable="d"', '' -replace "x:N", 'N' -replace '^<Win.*', '<Window'
         [XML]$XAML = $inputXML

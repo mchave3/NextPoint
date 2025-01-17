@@ -110,11 +110,11 @@ NextPoint/
 ### Phase 5 - UI Development 🔴
 
 #### 5.1 UI Core
-- [ ] Tests - WPF Components
-- [ ] Tests - Event Handlers
-- [ ] Tests - UI Navigation
-- [ ] Implémentation UI Base
-- [ ] Tests d'Intégration UI
+- [x] Tests - WPF Components
+- [x] Tests - Event Handlers
+- [x] Tests - UI Navigation
+- [x] Implémentation UI Base
+- [x] Tests d'Intégration UI
 
 #### 5.2 UI Features
 - [ ] Tests - Dashboard
